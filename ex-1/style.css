@@ -12,6 +12,5 @@ button{
     width: 120px;
     height: 36px;
     background-color: khaki;
-    border-radius: 4px solid lightgrey;
-
+    border-color: lightgrey;
 }
