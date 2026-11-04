@@ -1,1 +1,17 @@
-/* start coding here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input{
+    width: 240px;
+    height: 50px;
+    border-radius: 4px;
+}
+button{
+    width: 120px;
+    height: 36px;
+    background-color: khaki;
+    border-radius: 4px solid lightgrey;
+
+}
